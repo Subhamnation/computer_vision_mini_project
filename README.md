@@ -242,9 +242,7 @@ cv_mini_project/
 
 ## 📚 References
 
-- [MediaPipe Pose Landmark Model](https://google.github.io/mediapipe/solutions/pose.html)
 - [The Real Science of the Squat – Squat University](https://squatuniversity.com/2016/04/20/the-real-science-of-the-squat/)
-- [Rohan's Squat-Analysis-Model (inspiration)](https://github.com/rohanx01/Squat-Analysis-Model)
 - [Gradio Documentation](https://www.gradio.app/docs/)
 - [OpenCV Documentation](https://docs.opencv.org/)
 
